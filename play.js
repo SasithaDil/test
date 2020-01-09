@@ -15,6 +15,7 @@ const addOne = a => a+1;
 
 console.log(addOne(2));
 console.log(add(1,2));
+////
 //-----------------------------------------------------------------------
 console.log(summarizeData(name,age, hasHobbies));
 
