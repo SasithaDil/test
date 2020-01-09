@@ -41,3 +41,5 @@ console.log(hobbies);
 hobbies.push('prog','fffff');
 hobbies.pop();
 console.log(hobbies);
+
+console.log(hobby);
