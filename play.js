@@ -7,6 +7,7 @@ age = 33;
 const summarizeData = (userName, userAge, userHasHobbies)=> {
     return ('Namr is : ' + userName + 'Age is : ' + userAge + 'User has hobbies : ' + userHasHobbies);
 }
+////////
 //------------------------------------------------------------------------
 const add = (a,b) => a+b;
 
